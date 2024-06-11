@@ -1,1 +1,1 @@
-# t-rkiye_deprem
+# turkiye_deprem
