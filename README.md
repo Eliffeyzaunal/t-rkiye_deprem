@@ -1,0 +1,1 @@
+# t-rkiye_deprem
